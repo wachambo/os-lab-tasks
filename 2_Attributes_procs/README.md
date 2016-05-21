@@ -1,6 +1,6 @@
 Changing attribures of files. Processes.
 
-**one.sh**..
+**one.sh**  
 1. Create a dir with a few new files.  
 2. Show all file types and attributes.  
 3. Create another dir and create on it symbolic links to any file in the first dir.  
