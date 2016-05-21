@@ -1,0 +1,9 @@
+burst  ------>  order
+0- 6            0- 3 
+1- 8            1- 0
+2- 7            2- 2
+3- 3            3- 1
+
+
+"burst array" gives the burst of each process
+"order array" gives the index of burst's array in the order to be executed processes
